@@ -1,0 +1,131 @@
+/* div.main */
+
+.main{
+    width: 100%;
+    background-image: url("/bg\ img.jpg");
+   width: 100vw;
+   height: 900px;
+    background-color: rgb(102, 184, 252);
+    
+}
+/* div.one */
+.one{
+    color: darkgreen;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    height: 150px;
+background-color: rgb(255, 177, 76);
+
+
+}
+.row1{
+    border-radius: 20px;
+   font-size: larger;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left;
+    width: 20%;
+    height: 100%;
+    background-color: rgb(214, 199, 199);
+    
+}
+.row2{
+    border-radius: 20px;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left;
+    width: 20%;
+    height: 100%;
+    background-color: rgb(175, 199, 206);
+}
+.row3{
+    border-radius: 20px;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left;
+    width: 20%;
+    height: 100%;
+    background-color: rgb(180, 211, 180);
+}
+.row4{
+    border-radius: 20px;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left;
+    width: 20%;
+    height: 100%;
+    background-color: rgb(195, 166, 201);
+}
+.row5{
+    border-radius: 20px;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left;
+    width: 20%;
+    height: 100%;
+    background-color: rgb(143, 143, 202);
+}
+.one>div{
+    padding-top: 60px;
+    text-align: center;
+    box-sizing: border-box;
+}
+/* div.three */
+.three{
+    width: 100%;
+    height: 250px;
+    background-color: rgb(194, 194, 194);
+   box-sizing: border-box;
+   
+}
+
+.box1{
+    color: rgb(0, 0, 0);
+    width: 20%;
+    height: 200px;
+    background-color: crimson;
+    float: left;
+    margin: 30px;
+    position: relative;
+}
+.box2{
+    color: aliceblue;
+    width: 20%;
+    height: 200px;
+    background-color: rgb(217, 220, 20);
+    float: left;
+    margin: 30px;
+    position: relative;
+}
+.box3{
+
+    width: 20%;
+    height: 200px;
+    background-color: rgb(247, 1, 255);
+    float: left;
+    margin: 30px;
+    position: relative;
+}
+.box4{
+    color: aliceblue;
+    width: 20%;
+    height: 200px;
+    background-color: rgb(24, 255, 3);
+    float: left;
+    margin: 30px;
+    position: relative;
+}
+p{
+    position: absolute;
+    top: 40px;
+    text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+.four{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    font-size: x-large;
+font-family: 'Courier New', Courier, monospace;
+}
